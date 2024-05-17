@@ -1,0 +1,16 @@
+#SampleID	Metaphlan2_Analysis
+d__Bacteria	7
+d__Bacteria|p__Methylomirabilota	7
+d__Bacteria|p__Methylomirabilota|c__Methylomirabilia	7
+d__Bacteria|p__Methylomirabilota|c__Methylomirabilia|o__Rokubacteriales	7
+d__Bacteria|p__Methylomirabilota|c__Methylomirabilia|o__Rokubacteriales|f__CSP1-6	7
+d__Bacteria|p__Methylomirabilota|c__Methylomirabilia|o__Rokubacteriales|f__CSP1-6|g__AR12	1
+d__Bacteria|p__Methylomirabilota|c__Methylomirabilia|o__Rokubacteriales|f__CSP1-6|g__AR12|s__AR12	1
+d__Bacteria|p__Methylomirabilota|c__Methylomirabilia|o__Rokubacteriales|f__CSP1-6|g__AR5	1
+d__Bacteria|p__Methylomirabilota|c__Methylomirabilia|o__Rokubacteriales|f__CSP1-6|g__AR5|s__AR5	1
+d__Bacteria|p__Methylomirabilota|c__Methylomirabilia|o__Rokubacteriales|f__CSP1-6|g__AR9	1
+d__Bacteria|p__Methylomirabilota|c__Methylomirabilia|o__Rokubacteriales|f__CSP1-6|g__AR9|s__AR9	1
+d__Bacteria|p__Methylomirabilota|c__Methylomirabilia|o__Rokubacteriales|f__CSP1-6|g__CSP1-6	3
+d__Bacteria|p__Methylomirabilota|c__Methylomirabilia|o__Rokubacteriales|f__CSP1-6|g__CSP1-6|s__CSP1-6	3
+d__Bacteria|p__Methylomirabilota|c__Methylomirabilia|o__Rokubacteriales|f__CSP1-6|g__JACQFL01	1
+d__Bacteria|p__Methylomirabilota|c__Methylomirabilia|o__Rokubacteriales|f__CSP1-6|g__JACQFL01|s__JACQFL01	1
