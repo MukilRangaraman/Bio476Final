@@ -1,8 +1,0 @@
----
-title: "Quarto Website"
----
-
-This is the Quarto website made by Mukil Rangaraman.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-

@@ -1,7 +1,7 @@
 ---
-title: "Final Lab"
-author: "Talia Bastian"
-date: "2024-05-08"
+title: "Analysis of Onaqui Field Site and Methylomirabilota Phylum"
+author: "Talia Bastian, Mukil Rangaraman, Toni Lamparski"
+date: "2024-05-17"
 output:
   html_document:
     theme: flatly
@@ -25,6 +25,7 @@ The Onaqui field site (ONAQ), managed by the Bureau of Land Management and locat
 
 
 ![Onaqui Field Site](images/Site.jpg)
+
 
 Methylomirabilota, also known as the NC10 Phylum, is a bacterial phylum. These microbes possess a unique metabolic capability to perform anaerobic methane oxidation coupled to nitrite reduction (ANME-2d), a process known as anaerobic methane oxidation (AOM). This metabolic trait is distinctive because it allows them to thrive in environments with low to no oxygen availability, such as certain freshwater and marine sediments, where methane and nitrite coexist. [@he_novel_2016]
 
